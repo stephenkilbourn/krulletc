@@ -5,4 +5,9 @@
 I am a Quality Engineer with an interest in all things that genuinely help deliver a better product. 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krulletc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krulletc&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krulletc&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+</p>
