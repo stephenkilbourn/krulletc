@@ -8,6 +8,6 @@ I am a Quality Engineer with an interest in all things that genuinely help deliv
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephenkilbourn&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
+  ![Stephen's GitHub stats]("https://github-readme-stats.vercel.app/api?username=stephenkilbourn&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula")
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenkilbourn&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
 </p>
